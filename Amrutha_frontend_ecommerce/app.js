@@ -44,7 +44,7 @@ app.get('/', function(req, res){
 
 app.get('/customer', function(req, res){
     session
-        .run('MATCH (:Customer {name: "Sofia Peter"})-->(product:Product)<--(customer:Customer) MATCH (customer)-->(customer_product:Product) WHERE (customer_product <> product) RETURN customer_product')
+        .run('MATCH (:Customer {name: "Sofia Peter"})-->(product:Product)<--(customer:Customer) MATCH (customer)-->(customer_product:Product) WHERE (customer_product <> product) RETURN DISTINCT customer_product')
         .then(function(result){
             var customerArr = [];
             result.records.forEach(function(record){
