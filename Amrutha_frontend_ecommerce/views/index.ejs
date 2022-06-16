@@ -15,13 +15,17 @@
     <input id="textbox" type="text" name="">
     <button type= "button" onclick="getdata()" >Search</button>
 </form>
-<ul id="list">
-<% product.forEach(function(product){ %>
+<div  class="row boxshadow">
+    <ul id="list">
+    <% product.forEach(function(product){ %>
     <!-- <li> <%= product.id %> </li> -->
-    <li> <%= product.title %> </li>
-<% }) %>
+    <b><li> Product: <%= product.title  %> </li></b>
+    <b><li> Availability: <%= product.availability %> </li></b>
+    <br></br>
+    <% }) %>
 
-</ul>
+    </ul>
+</div>
 <script>
     document.getElementById("list").style.display = "none";
     async function getdata() {

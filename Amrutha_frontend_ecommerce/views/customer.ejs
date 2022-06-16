@@ -22,19 +22,35 @@
 
     <div  class="row boxshadow">
         <div class="col-md-5">
+            <b>Other Customers viewed:</b>
             <div class="cusproducts" id="list1">
             <% customer_product.forEach(function(customer_product){ %>
                 <div href="#" class="cusproducts__card">
                     <div class="row boxshadow">
+                        <img src="../public/css/images/laptop.png" />
                         <b><%= customer_product.title%></b>
                         <b><%= customer_product.price%></b>
-
                         
                     </div>
-
-                </div>
-    
-                
+                </div>                
+            <% }) %>   
+            </div>
+        </div>
+    </div>
+    <br> </br>
+    <div  class="row boxshadow">
+        <div class="col-md-5">
+            <b>Recently Viewed Products:</b>
+            <div class="cusproducts" id="list2">
+            <% recproduct.forEach(function(rp){ %>
+                <div href="#" class="cusproducts__card">
+                    <div class="row boxshadow">
+                        <img src="../public/css/images/laptop.png" />
+                        <b><%= rp.title%></b>
+                        <b><%= rp.price%></b>
+                        
+                    </div>
+                </div>               
             <% }) %>   
             </div>
         </div>
@@ -43,16 +59,18 @@
 
 <script>
     document.getElementById("list1").style.display = "none";
+    document.getElementById("list2").style.display = "none";
     async function getdata() {
     
         var a = document.getElementById("textbox").textContent;
         if (a != null || a == "sofia_peter@gmail.com") {
     
             document.getElementById("list1").style.display = "block";
+            document.getElementById("list2").style.display = "block";
             
         }
        
     }
     
 </script>
-</body>    
+</body>
