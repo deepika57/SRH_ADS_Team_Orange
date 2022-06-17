@@ -1,0 +1,44 @@
+//This is used to display attributes in graph
+CALL gds.graph.project("shortest",{places:{properties:["latitude","longitude"]}},{road:{properties:"distance",orientation:'UNDIRECTED'}})
+
+//This cypher is used to find shortest distance from Alte Bruke to Wieblingen mitte
+
+MATCH (source:places {name: 'Alte Bruke'}), (target:places {name: 'Wieblingen mitte'})
+CALL gds.shortestPath.dijkstra.stream('shortest', {
+sourceNode: source,
+targetNode: target,
+relationshipWeightProperty: 'distance'
+})
+YIELD index, sourceNode, targetNode, totalCost, nodeIds, costs, path
+RETURN
+index,
+gds.util.asNode(sourceNode).name AS sourceNodeName,
+gds.util.asNode(targetNode).name AS targetNodeName,
+totalCost,
+[nodeId IN nodeIds | gds.util.asNode(nodeId).name] AS nodeNames,
+costs,
+nodes(path) as path
+
+
+//This cypher is used to find all shortest distance from Alte Bruke
+
+CALL gds.alpha.allShortestPaths.stream('shortest', {
+relationshipWeightProperty: 'distance'
+})
+YIELD sourceNodeId, targetNodeId, distance
+WITH sourceNodeId, targetNodeId, distance
+WHERE gds.util.isFinite(distance) = true
+MATCH (source:places) WHERE id(source) = sourceNodeId
+MATCH (target:places) WHERE id(target) = targetNodeId
+WITH source, target, distance WHERE source <> target and source.name='ZiegelHausen'
+RETURN source.name AS source, target.name AS target, distance as distance_in_ms
+
+//This cypher is used to plot the graph on neomaps
+
+match(a:Places {name:"Alte Bruke"})
+match(b:Places {name:"Wieblingen mitte"})
+
+match p = shortestPath( (a)-[:connect_to*..5]-(b) )
+UNWIND nodes(p) AS n 
+
+return n.Latitude as latitude,n.Longitude as longitude
