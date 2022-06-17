@@ -1,0 +1,51 @@
+{
+  "name": "Graph DBMS fe308d18",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-fe308d18-e4db-4546-932c-a0121d679672"
+  ],
+  "id": "cd166c87-478d-4a40-a4d6-e020d27721dd",
+  "metadata": {
+    "neo4jDesktopDbmsDatabases": [
+      {
+        "name": "neo4j",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": true,
+        "statistics": {
+          "nodes": 18,
+          "relationships": 72,
+          "labels": 1,
+          "relationshipTypes": 1,
+          "propertyKeys": 4
+        }
+      },
+      {
+        "name": "orange",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": false,
+        "statistics": {
+          "nodes": 18,
+          "relationships": 171,
+          "labels": 1,
+          "relationshipTypes": 1,
+          "propertyKeys": 4
+        }
+      },
+      {
+        "name": "system",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": false
+      }
+    ]
+  },
+  "isCustomPathInstallation": false
+}

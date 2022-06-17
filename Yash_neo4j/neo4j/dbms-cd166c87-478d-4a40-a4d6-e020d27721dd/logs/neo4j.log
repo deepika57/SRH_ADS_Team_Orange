@@ -1,0 +1,188 @@
+﻿Directories in use:
+home:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd
+config:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\conf
+logs:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\logs
+plugins:      C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\plugins
+import:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\import
+data:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\data
+certificates: C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\certificates
+licenses:     C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\licenses
+run:          C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\run
+Starting Neo4j.
+2022-06-16 23:50:19.537+0000 INFO  Starting...
+2022-06-16 23:50:21.021+0000 INFO  This instance is ServerId{efe2cd1d} (efe2cd1d-9af6-4630-ae53-e78f4346f8a2)
+2022-06-16 23:50:23.475+0000 INFO  ======== Neo4j 4.4.5 ========
+2022-06-16 23:50:28.740+0000 INFO  Sending metrics to CSV file at C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\metrics
+2022-06-16 23:50:28.791+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-06-16 23:50:30.208+0000 INFO  Remote interface available at http://localhost:7474/
+2022-06-16 23:50:30.217+0000 INFO  id: 91C6A3119980BB2ACF34B500DC8AA6EE032E67B14BFE84606C137F56B1D22532
+2022-06-16 23:50:30.217+0000 INFO  name: system
+2022-06-16 23:50:30.217+0000 INFO  creationDate: 2022-06-16T23:50:24.691Z
+2022-06-16 23:50:30.217+0000 INFO  Started.
+2022-06-16 23:51:50.259+0000 INFO  Neo4j Server shutdown initiated by request
+2022-06-16 23:51:50.259+0000 INFO  Stopping...
+2022-06-16 23:51:50.260+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd
+config:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\conf
+logs:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\logs
+plugins:      C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\plugins
+import:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\import
+data:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\data
+certificates: C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\certificates
+licenses:     C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\licenses
+run:          C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\run
+Starting Neo4j.
+2022-06-16 23:52:02.344+0000 INFO  Starting...
+2022-06-16 23:52:04.111+0000 INFO  This instance is ServerId{efe2cd1d} (efe2cd1d-9af6-4630-ae53-e78f4346f8a2)
+2022-06-16 23:52:07.504+0000 INFO  ======== Neo4j 4.4.5 ========
+2022-06-16 23:52:15.807+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-16 23:52:15.807+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-16 23:52:27.692+0000 INFO  Sending metrics to CSV file at C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\metrics
+2022-06-16 23:52:27.778+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-06-16 23:52:29.579+0000 INFO  Remote interface available at http://localhost:7474/
+2022-06-16 23:52:29.588+0000 INFO  id: 91C6A3119980BB2ACF34B500DC8AA6EE032E67B14BFE84606C137F56B1D22532
+2022-06-16 23:52:29.588+0000 INFO  name: system
+2022-06-16 23:52:29.588+0000 INFO  creationDate: 2022-06-16T23:50:24.691Z
+2022-06-16 23:52:29.588+0000 INFO  Started.
+2022-06-16 23:53:15.020+0000 INFO  Neo4j Server shutdown initiated by request
+2022-06-16 23:53:15.021+0000 INFO  Stopping...
+2022-06-16 23:53:15.021+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd
+config:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\conf
+logs:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\logs
+plugins:      C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\plugins
+import:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\import
+data:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\data
+certificates: C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\certificates
+licenses:     C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\licenses
+run:          C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\run
+Starting Neo4j.
+2022-06-16 23:53:25.585+0000 INFO  Starting...
+2022-06-16 23:53:26.814+0000 INFO  This instance is ServerId{efe2cd1d} (efe2cd1d-9af6-4630-ae53-e78f4346f8a2)
+2022-06-16 23:53:28.738+0000 INFO  ======== Neo4j 4.4.5 ========
+2022-06-16 23:53:33.429+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-16 23:53:33.429+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-16 23:53:48.031+0000 INFO  Sending metrics to CSV file at C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\metrics
+2022-06-16 23:53:48.074+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-06-16 23:53:49.173+0000 INFO  Remote interface available at http://localhost:7474/
+2022-06-16 23:53:49.179+0000 INFO  id: 91C6A3119980BB2ACF34B500DC8AA6EE032E67B14BFE84606C137F56B1D22532
+2022-06-16 23:53:49.179+0000 INFO  name: system
+2022-06-16 23:53:49.179+0000 INFO  creationDate: 2022-06-16T23:50:24.691Z
+2022-06-16 23:53:49.179+0000 INFO  Started.
+2022-06-16 23:54:22.683+0000 INFO  Neo4j Server shutdown initiated by request
+2022-06-16 23:54:22.683+0000 INFO  Stopping...
+2022-06-16 23:54:22.683+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd
+config:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\conf
+logs:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\logs
+plugins:      C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\plugins
+import:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\import
+data:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\data
+certificates: C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\certificates
+licenses:     C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\licenses
+run:          C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\run
+Starting Neo4j.
+2022-06-16 23:55:53.077+0000 INFO  Starting...
+2022-06-16 23:55:54.546+0000 INFO  This instance is ServerId{efe2cd1d} (efe2cd1d-9af6-4630-ae53-e78f4346f8a2)
+2022-06-16 23:55:57.045+0000 INFO  ======== Neo4j 4.4.5 ========
+2022-06-16 23:56:03.143+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-16 23:56:03.143+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-16 23:56:23.838+0000 INFO  Sending metrics to CSV file at C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\metrics
+2022-06-16 23:56:23.886+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-06-16 23:56:25.185+0000 INFO  Remote interface available at http://localhost:7474/
+2022-06-16 23:56:25.191+0000 INFO  id: 91C6A3119980BB2ACF34B500DC8AA6EE032E67B14BFE84606C137F56B1D22532
+2022-06-16 23:56:25.192+0000 INFO  name: system
+2022-06-16 23:56:25.192+0000 INFO  creationDate: 2022-06-16T23:50:24.691Z
+2022-06-16 23:56:25.192+0000 INFO  Started.
+2022-06-17 00:08:17.700+0000 INFO  Loaded compatibility layer: class org.neo4j.gds.compat._44.Neo4jProxyImpl
+2022-06-17 00:08:17.700+0000 INFO  Loaded version: 4.4
+2022-06-17 00:08:17.700+0000 INFO  Java vendor: Azul Systems, Inc.
+2022-06-17 00:08:17.700+0000 INFO  Java version: 11.0.14.1
+2022-06-17 00:08:17.700+0000 INFO  Java home: C:\Users\YASH TUPKARI\.Neo4jDesktop\distributions\java\zulu11.54.25-ca-jdk11.0.14.1
+2022-06-17 00:08:21.378+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Start
+2022-06-17 00:08:21.403+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Nodes :: Start
+2022-06-17 00:08:21.414+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Nodes :: Store Scan :: Start
+2022-06-17 00:08:21.440+0000 INFO  [node-store-scan-2] Loading :: Nodes :: Store Scan 100%
+2022-06-17 00:08:21.445+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Nodes :: Store Scan :: Finished
+2022-06-17 00:08:21.474+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Nodes :: Finished
+2022-06-17 00:08:21.476+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Relationships :: Start
+2022-06-17 00:08:21.481+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Relationships :: Store Scan :: Start
+2022-06-17 00:08:21.502+0000 INFO  [relationship-store-scan-3] Loading :: Relationships :: Store Scan 100%
+2022-06-17 00:08:21.512+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Relationships :: Store Scan :: Finished
+2022-06-17 00:08:21.517+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Relationships :: Finished
+2022-06-17 00:08:21.548+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Actual memory usage of the loaded graph: 2410 KiB
+2022-06-17 00:08:21.548+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:1027] ] Loading :: Finished
+2022-06-17 00:08:51.935+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra :: Start
+2022-06-17 00:08:51.939+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 5%
+2022-06-17 00:08:51.940+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 10%
+2022-06-17 00:08:51.941+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 15%
+2022-06-17 00:08:51.941+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 21%
+2022-06-17 00:08:51.941+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 26%
+2022-06-17 00:08:51.941+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 31%
+2022-06-17 00:08:51.941+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 36%
+2022-06-17 00:08:51.941+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 47%
+2022-06-17 00:08:51.942+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 52%
+2022-06-17 00:08:51.942+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 57%
+2022-06-17 00:08:51.942+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 62%
+2022-06-17 00:08:51.942+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 68%
+2022-06-17 00:08:51.942+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 73%
+2022-06-17 00:08:51.942+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 78%
+2022-06-17 00:08:51.943+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 84%
+2022-06-17 00:08:51.943+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 89%
+2022-06-17 00:08:51.952+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra 100%
+2022-06-17 00:08:51.953+0000 INFO  [neo4j.BoltWorker-7 [bolt] [/127.0.0.1:1027] ] Dijkstra :: Finished
+2022-06-17 00:11:32.032+0000 INFO  Neo4j Server shutdown initiated by request
+2022-06-17 00:11:32.032+0000 INFO  Stopping...
+2022-06-17 00:11:32.032+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd
+config:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\conf
+logs:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\logs
+plugins:      C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\plugins
+import:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\import
+data:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\data
+certificates: C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\certificates
+licenses:     C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\licenses
+run:          C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\run
+Starting Neo4j.
+2022-06-17 00:14:37.810+0000 INFO  Starting...
+2022-06-17 00:14:39.260+0000 INFO  This instance is ServerId{efe2cd1d} (efe2cd1d-9af6-4630-ae53-e78f4346f8a2)
+2022-06-17 00:14:41.637+0000 INFO  ======== Neo4j 4.4.5 ========
+2022-06-17 00:14:47.793+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-17 00:14:47.793+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-17 00:15:08.198+0000 INFO  Sending metrics to CSV file at C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\metrics
+2022-06-17 00:15:08.257+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-06-17 00:15:09.817+0000 INFO  Remote interface available at http://localhost:7474/
+2022-06-17 00:15:09.822+0000 INFO  id: 91C6A3119980BB2ACF34B500DC8AA6EE032E67B14BFE84606C137F56B1D22532
+2022-06-17 00:15:09.822+0000 INFO  name: system
+2022-06-17 00:15:09.822+0000 INFO  creationDate: 2022-06-16T23:50:24.691Z
+2022-06-17 00:15:09.822+0000 INFO  Started.
+2022-06-17 00:19:02.219+0000 INFO  Neo4j Server shutdown initiated by request
+2022-06-17 00:19:02.219+0000 INFO  Stopping...
+2022-06-17 00:19:02.219+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd
+config:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\conf
+logs:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\logs
+plugins:      C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\plugins
+import:       C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\import
+data:         C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\data
+certificates: C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\certificates
+licenses:     C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\licenses
+run:          C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\run
+Starting Neo4j.
+2022-06-17 00:26:19.209+0000 INFO  Starting...
+2022-06-17 00:26:21.064+0000 INFO  This instance is ServerId{efe2cd1d} (efe2cd1d-9af6-4630-ae53-e78f4346f8a2)
+2022-06-17 00:26:24.313+0000 INFO  ======== Neo4j 4.4.5 ========
+2022-06-17 00:26:34.041+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-17 00:26:34.041+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2022-06-17 00:27:00.493+0000 INFO  Sending metrics to CSV file at C:\Users\YASH TUPKARI\.Neo4jDesktop\relate-data\dbmss\dbms-cd166c87-478d-4a40-a4d6-e020d27721dd\metrics
+2022-06-17 00:27:00.550+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-06-17 00:27:02.053+0000 INFO  Remote interface available at http://localhost:7474/
+2022-06-17 00:27:02.061+0000 INFO  id: 91C6A3119980BB2ACF34B500DC8AA6EE032E67B14BFE84606C137F56B1D22532
+2022-06-17 00:27:02.062+0000 INFO  name: system
+2022-06-17 00:27:02.062+0000 INFO  creationDate: 2022-06-16T23:50:24.691Z
+2022-06-17 00:27:02.062+0000 INFO  Started.
